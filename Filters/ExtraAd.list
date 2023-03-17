@@ -1,31 +1,31 @@
 # ～ 真不卡
-DOMAIN-SUFFIX, ttayy.cn
-DOMAIN-SUFFIX, zhengxiaoliu.top
+host-suffix, ttayy.cn, reject
+host-suffix, zhengxiaoliu.top, reject
 
 # ～ NicoNico
-host, ads.nicovideo.jp
+host, ads.nicovideo.jp, reject
 
 # ～ HDO
-DOMAIN-SUFFIX,applovin.com,REJECT
-DOMAIN-SUFFIX,applvn.com,REJECT
+host-suffix, applovin.com, reject
+host-suffix, applvn.com, reject
 
 # ～ 美颜相机去首页和轮播广告
-host, adui.tg.meitu.com
-host, aaid.uyunad.com
+host, adui.tg.meitu.com, reject
+host, aaid.uyunad.com, reject
 
 # ～ 爱奇艺广告屏蔽
-ip-cidr, 203.107.63.154/32
+ip-cidr, 203.107.63.154/32, reject
 
 # ～ 多多视频去开屏广告
-host-suffix, bayescom.com
+host-suffix, bayescom.com, reject
 
 # ～ 车来了（包括小程序）
-host-suffix, atrace.chelaile.net.cn
-host, logs.chelaile.net.cn
-host, ad.chelaile.net.cn
+host-suffix, atrace.chelaile.net.cn, reject
+host, logs.chelaile.net.cn, reject
+host, ad.chelaile.net.cn, reject
 
 # ～ 铁路12306
-HOST, ad.12306.cn
+host, ad.12306.cn, reject
 
 # ～ 两步路
-HOST-SUFFIX, admobile.top
+host-suffix, admobile.top, reject

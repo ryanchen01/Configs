@@ -1,17 +1,17 @@
 # > myTV SUPER
-USER-AGENT,mytv*
-DOMAIN-SUFFIX,mytvsuper.com
-DOMAIN-SUFFIX,tvb.com
+user-agent, mytv*, proxy
+host-suffix, mytvsuper.com, proxy
+host-suffix, tvb.com, proxy
 
 # > Now E
-DOMAIN-SUFFIX,nowe.com
-DOMAIN-SUFFIX,nowestatic.com
+host-suffix, nowe.com, proxy
+host-suffix, nowestatic.com, proxy
 
 # > ViuTV
-USER-AGENT,Viu*
-DOMAIN-SUFFIX,viu.com
-DOMAIN-SUFFIX,viu.tv
-DOMAIN,api.viu.now.com
-DOMAIN,d1k2us671qcoau.cloudfront.net
-DOMAIN,d2anahhhmp1ffz.cloudfront.net
-DOMAIN,dfp6rglgjqszk.cloudfront.net
+USER-AGENT,Viu*, proxy
+host-suffix, viu.com, proxy
+host-suffix, viu.tv, proxy
+host, api.viu.now.com
+host, d1k2us671qcoau.cloudfront.net, proxy
+host, d2anahhhmp1ffz.cloudfront.net, proxy
+host, dfp6rglgjqszk.cloudfront.net, proxy

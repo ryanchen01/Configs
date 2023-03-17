@@ -1,27 +1,27 @@
 # > Bahamut
-USER-AGENT,Anime*
-DOMAIN-SUFFIX,bahamut.com.tw
-DOMAIN-SUFFIX,gamer.com.tw
-DOMAIN,gamer-cds.cdn.hinet.net
-DOMAIN,gamer2-cds.cdn.hinet.net
+user-agent, Anime*, proxy
+host-suffix, bahamut.com.tw, proxy
+host-suffix, gamer.com.tw, proxy
+host, gamer-cds.cdn.hinet.net, proxy
+host, gamer2-cds.cdn.hinet.net, proxy
 
 # > KKTV
-USER-AGENT,KKTV*
-USER-AGENT,com.kktv.ios.kktv*
-DOMAIN-SUFFIX,kktv.com.tw
-DOMAIN-SUFFIX,kktv.me
-DOMAIN,kktv-theater.kk.stream
+user-agent, KKTV*, proxy
+user-agent, com.kktv.ios.kktv*, proxy
+host-suffix, kktv.com.tw, proxy
+host-suffix, kktv.me, proxy
+host, kktv-theater.kk.stream, proxy
 
 # > LINE TV
-USER-AGENT,LINE%20TV*
-DOMAIN-SUFFIX,linetv.tw
-DOMAIN,d3c7rimkq79yfu.cloudfront.net
+user-agent, LINE%20TV*, proxy
+host-suffix, linetv.tw, proxy
+host, d3c7rimkq79yfu.cloudfront.net, proxy
 
 # > LiTV
-DOMAIN-SUFFIX,litv.tv
-DOMAIN,litvfreemobile-hichannel.cdn.hinet.net
+host-suffix, litv.tv, proxy
+host, litvfreemobile-hichannel.cdn.hinet.net, proxy
 
 # > 台湾好
-USER-AGENT,TaiwanGood*
-DOMAIN-SUFFIX,skyking.com.tw
-DOMAIN,hamifans.emome.net
+user-agent, TaiwanGood*, proxy
+host-suffix, skyking.com.tw, proxy
+host, hamifans.emome.net, proxy

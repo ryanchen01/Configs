@@ -1,4 +1,4 @@
 # > Naver TV
-USER-AGENT,Naver%20TV*
-DOMAIN-SUFFIX,naver.com
-DOMAIN-SUFFIX,smartmediarep.com
+user-agent, Naver%20TV*, proxy
+host-suffix, naver.com, proxy
+host-suffix, smartmediarep.com, proxy

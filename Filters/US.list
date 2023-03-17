@@ -1,38 +1,38 @@
 # > Apple Music TV
-DOMAIN,tv.applemusic.com
+host, tv.applemusic.com, proxy
 
 # > encoreTVB
-USER-AGENT,encoreTVB*
-DOMAIN-SUFFIX,encoretvb.com
-DOMAIN,edge.api.brightcove.com
-DOMAIN,bcbolt446c5271-a.akamaihd.net
+user-agent, encoreTVB*, proxy
+host-suffix, encoretvb.com, proxy
+host, edge.api.brightcove.com, proxy
+host, bcbolt446c5271-a.akamaihd.net, proxy
 
 # > HBO NOW & Max
-USER-AGENT,HBO%20NOW*
-DOMAIN-SUFFIX,hbo.com
-DOMAIN-SUFFIX,hbogo.com
-DOMAIN-SUFFIX,hbonow.com
-USER-AGENT,HBOMAX*
-DOMAIN-SUFFIX,hbomax.com
-DOMAIN-SUFFIX,hbomaxcdn.com
+user-agent, HBO%20NOW*, proxy
+host-suffix, hbo.com, proxy
+host-suffix, hbogo.com, proxy
+host-suffix, hbonow.com, proxy
+user-agent, HBOMAX*, proxy
+host-suffix, hbomax.com, proxy
+host-suffix, hbomaxcdn.com, proxy
 
 # > Hulu
-DOMAIN-SUFFIX,hulu.com
-DOMAIN-SUFFIX,huluim.com
-DOMAIN-SUFFIX,hulustream.com
+host-suffix, hulu.com, proxy
+host-suffix, huluim.com, proxy
+host-suffix, hulustream.com, proxy
 
 # > Paramount+
-USER-AGENT,PPlus*
-DOMAIN-SUFFIX,cbsi.com
-DOMAIN-SUFFIX,cbsaavideo.com
-DOMAIN-SUFFIX,cbsivideo.com
-DOMAIN-SUFFIX,paramountplus.com
-DOMAIN-SUFFIX,pplusstatic.com
-DOMAIN,cbsi.live.ott.irdeto.com
-DOMAIN,cbsplaylistserver.aws.syncbak.com
-DOMAIN,cbsservice.aws.syncbak.com
-DOMAIN,link.theplatform.com
+user-agent, PPlus*, proxy
+host-suffix, cbsi.com, proxy
+host-suffix, cbsaavideo.com, proxy
+host-suffix, cbsivideo.com, proxy
+host-suffix, paramountplus.com, proxy
+host-suffix, pplusstatic.com, proxy
+host, cbsi.live.ott.irdeto.com, proxy
+host, cbsplaylistserver.aws.syncbak.com, proxy
+host, cbsservice.aws.syncbak.com, proxy
+host, link.theplatform.com, proxy
 
 # > PBS
-USER-AGENT,PBS*
-DOMAIN-SUFFIX,pbs.org
+user-agent, PBS*, proxy
+host-suffix, pbs.org, proxy
