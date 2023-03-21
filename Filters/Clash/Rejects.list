@@ -1,0 +1,6 @@
+SCRIPT,QUI,no-resolve
+DOMAIN,assets.msn.c
+DOMAIN,api.msn.c
+DOMAIN,c.msn.c
+DOMAIN,www.msn.c
+DOMAIN,ntp.msn.c
