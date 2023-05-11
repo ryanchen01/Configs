@@ -1,123 +1,123 @@
- host-suffix,1drv.com
- host-suffix,aadrm.com
- host-suffix,acompli.com
- host-suffix,acompli.net
- host-suffix,aka.ms
- host-suffix,akadns.net
- host-suffix,aspnetcdn.com
- host-suffix,assets-yammer.com
- host-suffix,azure.cn
- host-suffix,azure.com
- host-suffix,azure.net
- host-suffix,azureedge.net
- host-suffix,azurerms.com
- host-suffix,bing.com
- host-suffix,bing.com.cn
- host-suffix,bingads.com
- host-suffix,bingagencyawards.com
- host-suffix,bingapistatistics.com
- host-suffix,bingsandbox.com
- host-suffix,bingvisualsearch.com
- host-suffix,bingworld.com
- host-suffix,bluehatnights.com
- host-suffix,dictate.ms
- host-suffix,flipwithsurface.com
- host-suffix,masalladeloslimites.com
- host-suffix,microsoft-give.com
- host-suffix,microsoftcloudsummit.com
- host-suffix,microsoftdiplomados.com
- host-suffix,microsoftlatamholiday.com
- host-suffix,microsoftmxfilantropia.com
- host-suffix,microsoftpartnersolutions.com
- host-suffix,msunlimitedcloudsummit.com
- host-suffix,office365love.com
- host-suffix,office365tw.com
- host-suffix,renovacionoffice.com
- host-suffix,sprinklesapp.com
- host-suffix,cn.bing.com
- host-suffix,cn.bing.net
- host-suffix,ditu.live.com
- host-suffix,full:bj1.api.bing.com
- host-suffix,full:emoi-cncdn.bing.com
- host-suffix,bing.net
- host-suffix,cloudapp.net
- host-suffix,cloudappsecurity.com
- host-suffix,docs.com
- host-suffix,edgesuite.net
- host-suffix,fabric.io
- host-suffix,gfx.ms
- host-suffix,hotmail.com
- host-suffix,live.com
- host-suffix,live.net
- host-suffix,livefilestore.com
- host-suffix,lync.com
- host-suffix,mesh.com
- host-suffix,microsoft-tst.com
- host-suffix,microsoft.com
- host-suffix,microsoftonline.com
- host-suffix,msappproxy.net
- host-suffix,msauth.net
- host-suffix,msauthimages.net
- host-suffix,msecnd.net
- host-suffix,msedge.net
- host-suffix,msft.net
- host-suffix,msftauth.net
- host-suffix,msftauthimages.net
- host-suffix,msftconnecttest.com
- host-suffix,msftidentity.com
- host-suffix,msidentity.com
- host-suffix,msn.com
- host-suffix,msocdn.com
- host-suffix,msocsp.com
- host-suffix,mstea.ms
- host-suffix,o365weve.com
- host-suffix,oaspapps.com
- host-suffix,office.com
- host-suffix,office.net
- host-suffix,office365.com
- host-suffix,officeppe.net
- host-suffix,omniroot.com
- host-suffix,onedrive.com
- host-suffix,onenote.com
- host-suffix,onenote.net
- host-suffix,onestore.ms
- host-suffix,onmicrosoft.com
- host-suffix,outlook.com
- host-suffix,outlookgroups.ms
- host-suffix,outlookmobile.com
- host-suffix,phonefactor.net
- host-suffix,public-trust.com
- host-suffix,s-microsoft.com
- host-suffix,sfbassets.com
- host-suffix,sfx.ms
- host-suffix,sharepoint.com
- host-suffix,sharepointonline.com
- host-suffix,skype.com
- host-suffix,skypeassets.com
- host-suffix,skypeforbusiness.com
- host-suffix,spoprod-a.akamaihd.net
- host-suffix,staffhub.ms
- host-suffix,svc.ms
- host-suffix,sway-cdn.com
- host-suffix,sway-extensions.com
- host-suffix,sway.com
- host-suffix,trafficmanager.net
- host-suffix,uservoice.com
- host-suffix,virtualearth.net
- host-suffix,visualstudio.com
- host-suffix,windows-ppe.net
- host-suffix,windows.com
- host-suffix,windows.net
- host-suffix,windowsazure.com
- host-suffix,windowsupdate.com
- host-suffix,wunderlist.com
- host-suffix,xbox.cn
- host-suffix,xbox.com
- host-suffix,xboxlive.cn
- host-suffix,xboxlive.com
- host-suffix,yammer.com
- host-suffix,yammerusercontent.com
- host-keyword,1drv
- host-keyword,microsoft
- host-keyword,onedrive
- host-keyword,skydrive
+ host-suffix,1drv.com, proxy
+ host-suffix,aadrm.com, proxy
+ host-suffix,acompli.com, proxy
+ host-suffix,acompli.net, proxy
+ host-suffix,aka.ms, proxy
+ host-suffix,akadns.net, proxy
+ host-suffix,aspnetcdn.com, proxy
+ host-suffix,assets-yammer.com, proxy
+ host-suffix,azure.cn, proxy
+ host-suffix,azure.com, proxy
+ host-suffix,azure.net, proxy
+ host-suffix,azureedge.net, proxy
+ host-suffix,azurerms.com, proxy
+ host-suffix,bing.com, proxy
+ host-suffix,bing.com.cn, proxy
+ host-suffix,bingads.com, proxy
+ host-suffix,bingagencyawards.com, proxy
+ host-suffix,bingapistatistics.com, proxy
+ host-suffix,bingsandbox.com, proxy
+ host-suffix,bingvisualsearch.com, proxy
+ host-suffix,bingworld.com, proxy
+ host-suffix,bluehatnights.com, proxy
+ host-suffix,dictate.ms, proxy
+ host-suffix,flipwithsurface.com, proxy
+ host-suffix,masalladeloslimites.com, proxy
+ host-suffix,microsoft-give.com, proxy
+ host-suffix,microsoftcloudsummit.com, proxy
+ host-suffix,microsoftdiplomados.com, proxy
+ host-suffix,microsoftlatamholiday.com, proxy
+ host-suffix,microsoftmxfilantropia.com, proxy
+ host-suffix,microsoftpartnersolutions.com, proxy
+ host-suffix,msunlimitedcloudsummit.com, proxy
+ host-suffix,office365love.com, proxy
+ host-suffix,office365tw.com, proxy
+ host-suffix,renovacionoffice.com, proxy
+ host-suffix,sprinklesapp.com, proxy
+ host-suffix,cn.bing.com, proxy
+ host-suffix,cn.bing.net, proxy
+ host-suffix,ditu.live.com, proxy
+ host-suffix,full:bj1.api.bing.com, proxy
+ host-suffix,full:emoi-cncdn.bing.com, proxy
+ host-suffix,bing.net, proxy
+ host-suffix,cloudapp.net, proxy
+ host-suffix,cloudappsecurity.com, proxy
+ host-suffix,docs.com, proxy
+ host-suffix,edgesuite.net, proxy
+ host-suffix,fabric.io, proxy
+ host-suffix,gfx.ms, proxy
+ host-suffix,hotmail.com, proxy
+ host-suffix,live.com, proxy
+ host-suffix,live.net, proxy
+ host-suffix,livefilestore.com, proxy
+ host-suffix,lync.com, proxy
+ host-suffix,mesh.com, proxy
+ host-suffix,microsoft-tst.com, proxy
+ host-suffix,microsoft.com, proxy
+ host-suffix,microsoftonline.com, proxy
+ host-suffix,msappproxy.net, proxy
+ host-suffix,msauth.net, proxy
+ host-suffix,msauthimages.net, proxy
+ host-suffix,msecnd.net, proxy
+ host-suffix,msedge.net, proxy
+ host-suffix,msft.net, proxy
+ host-suffix,msftauth.net, proxy
+ host-suffix,msftauthimages.net, proxy
+ host-suffix,msftconnecttest.com, proxy
+ host-suffix,msftidentity.com, proxy
+ host-suffix,msidentity.com, proxy
+ host-suffix,msn.com, proxy
+ host-suffix,msocdn.com, proxy
+ host-suffix,msocsp.com, proxy
+ host-suffix,mstea.ms, proxy
+ host-suffix,o365weve.com, proxy
+ host-suffix,oaspapps.com, proxy
+ host-suffix,office.com, proxy
+ host-suffix,office.net, proxy
+ host-suffix,office365.com, proxy
+ host-suffix,officeppe.net, proxy
+ host-suffix,omniroot.com, proxy
+ host-suffix,onedrive.com, proxy
+ host-suffix,onenote.com, proxy
+ host-suffix,onenote.net, proxy
+ host-suffix,onestore.ms, proxy
+ host-suffix,onmicrosoft.com, proxy
+ host-suffix,outlook.com, proxy
+ host-suffix,outlookgroups.ms, proxy
+ host-suffix,outlookmobile.com, proxy
+ host-suffix,phonefactor.net, proxy
+ host-suffix,public-trust.com, proxy
+ host-suffix,s-microsoft.com, proxy
+ host-suffix,sfbassets.com, proxy
+ host-suffix,sfx.ms, proxy
+ host-suffix,sharepoint.com, proxy
+ host-suffix,sharepointonline.com, proxy
+ host-suffix,skype.com, proxy
+ host-suffix,skypeassets.com, proxy
+ host-suffix,skypeforbusiness.com, proxy
+ host-suffix,spoprod-a.akamaihd.net, proxy
+ host-suffix,staffhub.ms, proxy
+ host-suffix,svc.ms, proxy
+ host-suffix,sway-cdn.com, proxy
+ host-suffix,sway-extensions.com, proxy
+ host-suffix,sway.com, proxy
+ host-suffix,trafficmanager.net, proxy
+ host-suffix,uservoice.com, proxy
+ host-suffix,virtualearth.net, proxy
+ host-suffix,visualstudio.com, proxy
+ host-suffix,windows-ppe.net, proxy
+ host-suffix,windows.com, proxy
+ host-suffix,windows.net, proxy
+ host-suffix,windowsazure.com, proxy
+ host-suffix,windowsupdate.com, proxy
+ host-suffix,wunderlist.com, proxy
+ host-suffix,xbox.cn, proxy
+ host-suffix,xbox.com, proxy
+ host-suffix,xboxlive.cn, proxy
+ host-suffix,xboxlive.com, proxy
+ host-suffix,yammer.com, proxy
+ host-suffix,yammerusercontent.com, proxy
+ host-keyword,1drv, proxy
+ host-keyword,microsoft, proxy
+ host-keyword,onedrive, proxy
+ host-keyword,skydrive, proxy

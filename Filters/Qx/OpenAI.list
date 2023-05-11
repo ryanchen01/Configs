@@ -1,7 +1,7 @@
- host-suffix,openai.com
- host-suffix,ai.com
- host-suffix,openaiapi-site.azureedge.net
- host-suffix,openaicom.imgix.net
- host-suffix,openaicomproductionae4b.blob.core.windows.net
- host-suffix,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
- host-suffix,openaicomproductionae4b.blob.core.windows.net
+ host-suffix,openai.com, proxy
+ host-suffix,ai.com, proxy
+ host-suffix,openaiapi-site.azureedge.net, proxy
+ host-suffix,openaicom.imgix.net, proxy
+ host-suffix,openaicomproductionae4b.blob.core.windows.net, proxy
+ host-suffix,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net, proxy
+ host-suffix,openaicomproductionae4b.blob.core.windows.net, proxy
