@@ -37,8 +37,8 @@
  host-suffix,cn.bing.com, proxy
  host-suffix,cn.bing.net, proxy
  host-suffix,ditu.live.com, proxy
- host-suffix,full:bj1.api.bing.com, proxy
- host-suffix,full:emoi-cncdn.bing.com, proxy
+ host-suffix,bj1.api.bing.com, proxy
+ host-suffix,emoi-cncdn.bing.com, proxy
  host-suffix,bing.net, proxy
  host-suffix,cloudapp.net, proxy
  host-suffix,cloudappsecurity.com, proxy
