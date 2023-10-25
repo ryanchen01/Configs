@@ -1,4 +1,0 @@
-# > Naver TV
-user-agent, Naver%20TV*, proxy
-host-suffix, naver.com, proxy
-host-suffix, smartmediarep.com, proxy
