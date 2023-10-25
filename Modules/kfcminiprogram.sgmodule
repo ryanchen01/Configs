@@ -1,0 +1,10 @@
+#!name=KFC小程序净化
+
+[URL Rewrite]
+"^https:\/\/orders\.kfc\.com\.cn\/preorder-portal\/api\/v2\/coupon" - reject
+"^https:\/\/dynamicad\.kfc\.com\.cn\/api" - reject
+"^https:\/\/res\.kfc\.com\.cn\/CRM\/kfcad\/custom_v2\/wxapp" - reject
+"^https:\/\/orders\.kfc\.com\.cn\/preorder-portal\/api\/v2\/activity" - reject
+
+[MITM]
+hostname = %APPEND% orders.kfc.com.cn,dynamicad.kfc.com.cn,res.kfc.com.cn
