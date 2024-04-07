@@ -14,5 +14,7 @@ DOMAIN-SUFFIX,tdameritrade.com,Stocks
 DOMAIN-SUFFIX,thinkorswim.com,Stocks
 DOMAIN-SUFFIX,trefis.com,Stocks
 DOMAIN-SUFFIX,evidon.com,Stocks
+DOMAIN-SUFFIX,ibkr.com,Stocks
+DOMAIN-SUFFIX,interactivebrokers.com,Stocks
 DOMAIN-KEYWORD,fidelity,Stocks
 DOMAIN-KEYWORD,thinkorswim,Stocks
