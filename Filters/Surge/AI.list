@@ -21,7 +21,7 @@ DOMAIN-SUFFIX,chatgpt.com
 # OpenAI的图片优化和交付服务
 DOMAIN-SUFFIX,openaicom.imgix.net
 # sentry 数据采集，确定一个数据是用来定位的，影响到特定区域的功能是否可用
-DOMAIN,o33249.ingest.us.sentry.io
+DOMAIN-SUFFIX,sentry.io
 # CDN
 DOMAIN-SUFFIX,chat.openai.com.cdn.cloudflare.net
 # ChatGPT App 的语音服务，包括高级语音和普通语音
@@ -36,10 +36,14 @@ DEST-PORT,50000-60000
 DOMAIN-SUFFIX,oaiusercontent.com
 DOMAIN-SUFFIX,oaistatic.com
 # 不知道是干什么的
+DOMAIN-SUFFIX,segment.io
+DOMAIN-SUFFIX,observeit.net
+DOMAIN-SUFFIX,algolia.net
+DOMAIN,static.cloudflareinsights.com
 DOMAIN,browser-intake-datadoghq.com
 IP-CIDR,24.199.123.28/32
 IP-CIDR,64.23.132.171/32
-DOMAIN-SUFFIX,cdn.auth0.com
+DOMAIN-SUFFIX,auth0.com
 # 不知道，uBlock Origin 默认阻止
 DOMAIN-SUFFIX,featuregates.org
 # 支付渠道和验证
@@ -47,6 +51,7 @@ DOMAIN-SUFFIX,stripe.com
 DOMAIN,api.revenuecat.com
 # 人机验证相关
 DOMAIN-SUFFIX,client-api.arkoselabs.com
+DOMAIN-SUFFIX,openai-api.arkoselabs.com
 DOMAIN-SUFFIX,challenges.cloudflare.com
 # IdenTrust的数字证书和安全服务
 DOMAIN-SUFFIX,identrust.com
@@ -67,6 +72,7 @@ IP-CIDR,146.190.168.0/25
 IP-CIDR,129.146.161.173/32
 DOMAIN-SUFFIX,launchdarkly.com
 DOMAIN-KEYWORD,openai
+IP-ASN,20473
 # OpenAI 结束 ----------------------------------
 # Gemini 开始 ----------------------------------
 DOMAIN,alkalimakersuite-pa.clients6.google.com
