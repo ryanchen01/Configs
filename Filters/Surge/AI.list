@@ -89,7 +89,7 @@ DOMAIN,generativelanguage.googleapis.com
 DOMAIN,xai.chronosphere.com
 DOMAIN-SUFFIX,grok.com
 DOMAIN-SUFFIX,x.ai
-DOMAIN-SUFFIC,prodregistryv2.org
+DOMAIN-SUFFIX,prodregistryv2.org
 # 其它
 DOMAIN-SUFFIX,featureassets.org
 DOMAIN-SUFFIX,perplexity.ai
