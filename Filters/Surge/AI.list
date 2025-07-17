@@ -1,0 +1,98 @@
+# Anthropic 开始 ----------------------------------
+PROCESS-NAME,"/Applications/Claude.app/Contents/Frameworks/Claude Helper.app/Contents/MacOS/Claude Helper"
+PROCESS-NAME,/Applications/Claude.app/Contents/MacOS/Claude
+DOMAIN-SUFFIX,claude.ai
+DOMAIN-SUFFIX,anthropic.com
+DOMAIN-SUFFIX,claudeusercontent.com
+IP-CIDR6,2607:6bc0::/48
+IP-CIDR,160.79.104.0/23
+# https://docs.anthropic.com/en/api/ip-addresses 这个 IP 是 API 的 IP
+IP-ASN,399358
+DOMAIN-KEYWORD,claude
+DOMAIN-KEYWORD,anthropic
+# Anthropic 结束 ----------------------------------
+# OpenAI 开始 ----------------------------------
+PROCESS-NAME,/Applications/ChatGPT.app/Contents/MacOS/ChatGPT
+PROCESS-NAME,/Applications/ChatGPT.app/Contents/Resources/ChatGPTHelper
+DOMAIN-KEYWORD,openaicom
+DOMAIN-KEYWORD,chatgpt
+DOMAIN-SUFFIX,openai.com
+DOMAIN-SUFFIX,chatgpt.com
+# OpenAI的图片优化和交付服务
+DOMAIN-SUFFIX,openaicom.imgix.net
+# sentry 数据采集，确定一个数据是用来定位的，影响到特定区域的功能是否可用
+DOMAIN,o33249.ingest.us.sentry.io
+# CDN
+DOMAIN-SUFFIX,chat.openai.com.cdn.cloudflare.net
+# ChatGPT App 的语音服务，包括高级语音和普通语音
+DOMAIN-SUFFIX,livekit.cloud
+IP-CIDR,141.148.151.162/32
+IP-CIDR,129.146.66.142/32
+IP-CIDR,141.148.130.79/32
+IP-CIDR,129.146.108.178/32
+DEST-PORT,7881
+DEST-PORT,50000-60000
+# OpenAI的静态内容和用户内容，可能是证书相关内容
+DOMAIN-SUFFIX,oaiusercontent.com
+DOMAIN-SUFFIX,oaistatic.com
+# 不知道是干什么的
+DOMAIN,browser-intake-datadoghq.com
+IP-CIDR,24.199.123.28/32
+IP-CIDR,64.23.132.171/32
+DOMAIN-SUFFIX,cdn.auth0.com
+# 不知道，uBlock Origin 默认阻止
+DOMAIN-SUFFIX,featuregates.org
+# 支付渠道和验证
+DOMAIN-SUFFIX,stripe.com
+DOMAIN,api.revenuecat.com
+# 人机验证相关
+DOMAIN-SUFFIX,client-api.arkoselabs.com
+DOMAIN-SUFFIX,challenges.cloudflare.com
+# IdenTrust的数字证书和安全服务
+DOMAIN-SUFFIX,identrust.com
+# Intercom的客户沟通平台，不知道是干什么的
+DOMAIN-SUFFIX,intercom.io
+DOMAIN-SUFFIX,intercomcdn.com
+# Statsig 数据分析
+DOMAIN-SUFFIX,events.statsigapi.net
+DOMAIN-SUFFIX,api.statsig.com
+# Azure 的对象存储，主要用来下载聊天记录
+DOMAIN,openaicomproductionae4b.blob.core.windows.net
+# Azure 的 CDN
+DOMAIN,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
+DOMAIN,production-openaicom-storage.azureedge.net
+DOMAIN,openaiapi-site.azureedge.net
+# 早期的语音模式
+IP-CIDR,146.190.168.0/25
+IP-CIDR,129.146.161.173/32
+DOMAIN-SUFFIX,launchdarkly.com
+DOMAIN-KEYWORD,openai
+# OpenAI 结束 ----------------------------------
+# Gemini 开始 ----------------------------------
+DOMAIN,alkalimakersuite-pa.clients6.google.com
+DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com
+# 👆🏻 这两条很重要，如果这两条的规则匹配不上，或者 IP 不一致，就会弹不支持的国家
+DOMAIN,ai.google.dev
+DOMAIN,aistudio.google.com
+DOMAIN,ai.dev
+DOMAIN,makersuite.google.com
+DOMAIN-SUFFIX,bard.google.com
+DOMAIN-SUFFIX,deepmind.com
+DOMAIN-SUFFIX,deepmind.google
+DOMAIN-SUFFIX,gemini.google.com
+DOMAIN-SUFFIX,generativeai.google
+DOMAIN-SUFFIX,apis.google.com
+DOMAIN-KEYWORD,generativelanguage
+DOMAIN,generativelanguage.googleapis.com
+# Gemini 结束 ----------------------------------
+# Grok 开始 ----------------------------------
+DOMAIN,xai.chronosphere.com
+DOMAIN-SUFFIX,grok.com
+DOMAIN-SUFFIX,x.ai
+# 其它
+DOMAIN-SUFFIX,featureassets.org
+DOMAIN-SUFFIX,perplexity.ai
+DOMAIN-SUFFIX,ai.com
+DOMAIN-SUFFIX,poe.com
+DOMAIN-SUFFIX,psc2.cf2.poecdn.net
+DOMAIN-SUFFIX,openrouter.ai
